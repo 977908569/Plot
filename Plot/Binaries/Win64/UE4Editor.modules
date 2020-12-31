@@ -1,0 +1,8 @@
+{
+	"BuildId": "14904122",
+	"Modules": 
+	{
+		"Plot": "UE4Editor-Plot.dll",
+		"PlotEditor": "UE4Editor-PlotEditor.dll"
+	}
+}

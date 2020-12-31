@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PlotEditor-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\TGame\Intermediate\Build\Win64\GameEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.NonOptimized.h.obj"
+"F:\TGame\Plugins\Plot\Intermediate\Build\Win64\UE4Editor\DebugGame\PlotEditor\Module.PlotEditor.cpp.obj"
+"F:\TGame\Plugins\Plot\Intermediate\Build\Win64\UE4Editor\DebugGame\PlotEditor\Module.PlotEditor.gen.cpp.obj"
+"F:\TGame\Plugins\Plot\Intermediate\Build\Win64\UE4Editor\DebugGame\PlotEditor\Default.rc2.res"
+/OUT:"F:\TGame\Plugins\Plot\Intermediate\Build\Win64\UE4Editor\DebugGame\PlotEditor\UE4Editor-PlotEditor-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_PlotEditor

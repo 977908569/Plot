@@ -1,0 +1,46 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Plot.cpp.obj": [
+			"Plot.cpp.obj",
+			"PlotEnum.cpp.obj",
+			"PlotICondition.cpp.obj",
+			"PlotIEvent.cpp.obj",
+			"PlotItem.cpp.obj",
+			"PlotItem_Branch.cpp.obj",
+			"PlotItem_LoadImg.cpp.obj",
+			"PlotItem_PlayEffect.cpp.obj",
+			"PlotItem_PlaySequence.cpp.obj",
+			"PlotItem_RoleControl.cpp.obj",
+			"PlotItem_RoleImgCtr.cpp.obj",
+			"PlotItem_Sequence.cpp.obj",
+			"PlotItem_SetCameraArgs.cpp.obj",
+			"PlotItem_Talk.cpp.obj",
+			"PlotLibrary.cpp.obj",
+			"PlotModule.cpp.obj",
+			"PlotSaveGame.cpp.obj",
+			"PlotTabFile.cpp.obj",
+			"PlotWidget.cpp.obj"
+		],
+		"Module.Plot.gen.cpp.obj": [
+			"Plot.gen.cpp.obj",
+			"Plot.init.gen.cpp.obj",
+			"PlotCondition.gen.cpp.obj",
+			"PlotEnum.gen.cpp.obj",
+			"PlotEvent.gen.cpp.obj",
+			"PlotItem.gen.cpp.obj",
+			"PlotItem_Branch.gen.cpp.obj",
+			"PlotItem_LoadImg.gen.cpp.obj",
+			"PlotItem_PlayEffect.gen.cpp.obj",
+			"PlotItem_PlaySequence.gen.cpp.obj",
+			"PlotItem_RoleControl.gen.cpp.obj",
+			"PlotItem_RoleImgCtr.gen.cpp.obj",
+			"PlotItem_Sequence.gen.cpp.obj",
+			"PlotItem_SetCameraArgs.gen.cpp.obj",
+			"PlotItem_Talk.gen.cpp.obj",
+			"PlotLibrary.gen.cpp.obj",
+			"PlotSaveGame.gen.cpp.obj",
+			"PlotWidget.gen.cpp.obj"
+		]
+	}
+}

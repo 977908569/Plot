@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Plot.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\TGame\Intermediate\Build\Win64\GameEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\TGame\Plugins\Plot\Intermediate\Build\Win64\UE4Editor\Development\Plot\Module.Plot.cpp.obj"
+"F:\TGame\Plugins\Plot\Intermediate\Build\Win64\UE4Editor\Development\Plot\Module.Plot.gen.cpp.obj"
+"F:\TGame\Plugins\Plot\Intermediate\Build\Win64\UE4Editor\Development\Plot\Default.rc2.res"
+/OUT:"F:\TGame\Plugins\Plot\Intermediate\Build\Win64\UE4Editor\Development\Plot\UE4Editor-Plot.lib"
+/INCLUDE:IMPLEMENT_MODULE_Plot

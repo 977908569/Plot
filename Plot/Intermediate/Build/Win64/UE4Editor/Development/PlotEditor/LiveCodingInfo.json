@@ -1,0 +1,42 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PlotEditor.cpp.obj": [
+			"AssetTypeActions_Plot.cpp.obj",
+			"SPlotCameraView.cpp.obj",
+			"PlotDetailCustomizations.cpp.obj",
+			"PlotItemlCustomizations.cpp.obj",
+			"PlotRoleControlDetailCustomizations.cpp.obj",
+			"PlotRootDetailCustomizations.cpp.obj",
+			"SPlotDesignerToolBar.cpp.obj",
+			"SPlotDesignerView.cpp.obj",
+			"SPlotDetailsView.cpp.obj",
+			"PlotTemplateDragDropOp.cpp.obj",
+			"SPlotHierarchyView.cpp.obj",
+			"SPlotHierarchyViewItem.cpp.obj",
+			"SPlotPaletteView.cpp.obj",
+			"SPlotPaletteViewModel.cpp.obj",
+			"PlotEditor.cpp.obj",
+			"PlotEditorCommands.cpp.obj",
+			"PlotEditorDesignerApplicationMode.cpp.obj",
+			"PlotEditorModule.cpp.obj",
+			"PlotEditorStyle.cpp.obj",
+			"PlotEditorToolbar.cpp.obj",
+			"PlotFactory.cpp.obj",
+			"PlotReference.cpp.obj",
+			"PlotTemplate.cpp.obj",
+			"PlotCameraTabSummoner.cpp.obj",
+			"PlotDesignerTabSummoner.cpp.obj",
+			"PlotDetailsTabSummoner.cpp.obj",
+			"PlotHierarchyTabSummoner.cpp.obj",
+			"PlotPaletteTabSummoner.cpp.obj",
+			"PlotTemplateBlueprintClass.cpp.obj",
+			"PlotTemplateClass.cpp.obj",
+			"PlotEditorUtils.cpp.obj"
+		],
+		"Module.PlotEditor.gen.cpp.obj": [
+			"PlotEditor.init.gen.cpp.obj",
+			"PlotFactory.gen.cpp.obj"
+		]
+	}
+}

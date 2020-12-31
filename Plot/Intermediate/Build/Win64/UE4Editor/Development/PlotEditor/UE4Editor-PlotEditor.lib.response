@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PlotEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\TGame\Intermediate\Build\Win64\GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"F:\TGame\Plugins\Plot\Intermediate\Build\Win64\UE4Editor\Development\PlotEditor\Module.PlotEditor.cpp.obj"
+"F:\TGame\Plugins\Plot\Intermediate\Build\Win64\UE4Editor\Development\PlotEditor\Module.PlotEditor.gen.cpp.obj"
+"F:\TGame\Plugins\Plot\Intermediate\Build\Win64\UE4Editor\Development\PlotEditor\Default.rc2.res"
+/OUT:"F:\TGame\Plugins\Plot\Intermediate\Build\Win64\UE4Editor\Development\PlotEditor\UE4Editor-PlotEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_PlotEditor

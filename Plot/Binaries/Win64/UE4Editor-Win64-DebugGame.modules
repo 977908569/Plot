@@ -1,0 +1,8 @@
+{
+	"BuildId": "14469950",
+	"Modules": 
+	{
+		"Plot": "UE4Editor-Plot-Win64-DebugGame.dll",
+		"PlotEditor": "UE4Editor-PlotEditor-Win64-DebugGame.dll"
+	}
+}
